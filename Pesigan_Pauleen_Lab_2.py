@@ -64,7 +64,7 @@ insertNodeAtTheBeginning('purple')
 insertNodeAtTheEnd('red')
 insertNodeAtTheEnd('black')
 insertNodeAtTheEnd('white')
-insertNodeAfterGivenNode('green')
+insertNodeAfterGivenNode('red', 'pink')
 
 traverseLinkedList()
 
